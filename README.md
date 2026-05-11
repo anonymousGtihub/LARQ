@@ -36,8 +36,9 @@ Example (LLaMA-3 8B):
 - Improves performance in **17/18 configurations**
 - Larger gains for smaller models
 
-Example:
-- Qwen-2 0.5B (GPTQ): **39.49% → 42.74%**
+Example (Qwen-2 0.5B):
+- GPTQ: **39.49% → 42.74%**
+- BnB: **41.75% → 42.91%**
 
 ---
 
